@@ -1,0 +1,34 @@
+SISTEMA EXPERTO PARA DIAGNOSTICAR 
+UN CONJUNTO DE ENFERMEDADES DEPENDIENDO DE LOS SINTOMAS
+=======================================================
+
+SE basado en reglas (if () then ---)
+
+Diabetes
+Orina constante
+Sed Constante
+Hambre Excesiva
+Perdida de peso inexplicable
+Aumento de fatiga y debilidad
+Irritación
+Visión Borrosa
+
+Colesterol
+Hinchazòn en extremidades
+Perdida de equilibrio o mareos
+Dolor de cabeza
+Ojos amarillos
+Visión borrosa
+Agitación con actividades leves
+Dolor en el pecho
+
+Gastritis
+Ardor en el estomago
+Perdida de peso
+Nauseas
+Hipo
+Eructos
+Gases
+Mal sabor de boca
+Vomito
+Sensación de vacio gástrico
